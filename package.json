@@ -1,0 +1,22 @@
+{
+  "name": "vue-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "sgk",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.2.0",
+    "husky": "^9.0.11",
+    "prettier": "^3.2.5",
+    "sass": "^1.76.0",
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0",
+    "vue-tsc": "^2.0.16"
+  }
+}
