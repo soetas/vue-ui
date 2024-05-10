@@ -7,10 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky"
   },
+  "pnpm": {
+    "overrides": {}
+  },
   "keywords": [],
   "author": "sgk",
   "license": "ISC",
   "devDependencies": {
+    "commitlint": "^19.3.0",
     "eslint": "^9.2.0",
     "husky": "^9.0.11",
     "prettier": "^3.2.5",
